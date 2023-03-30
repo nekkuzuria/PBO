@@ -1,4 +1,2 @@
 # PBO
-Pemrograman Berbasis Objek
-
-Isinya cuman tugas-tugas pbo selama semester 2
+Isinya cuman tugas-tugas pbo alias oop selama semester 2
