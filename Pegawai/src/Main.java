@@ -13,6 +13,8 @@ public class Main {
         System.out.println("THR " + guroObj.getNama() + " : " + guroObj.getThr());
 
         deveObj.setGaji(4000000);
+        deveObj.setJmlPenjualan(198);
+        deveObj.setTargetPenjualan(200);
         System.out.println("THR " + deveObj.getNama() + " : " + deveObj.getThr());
 
 //        Cuti
